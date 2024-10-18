@@ -7,6 +7,7 @@ Component tester is an essential tool for electronics component value measuremen
 ![My Video](https://github.com/user-attachments/assets/b8ae5170-4164-4c63-9918-196c21350a3e)
 
 The function for different component measurement and detection is given in the code section; separate header files can be seen in the Arduino code library for each component in order to calibrate it properly according to your own circuit. Here I made a PCB using the below given circuit and the code works well for it. Code for this project can be downloaded from here. If you want to know more about the tester working and principle then refer to its 100-page manual. Which has all info about modes, screen types, microcontrollers and software.
+https://drive.google.com/drive/folders/11BXJZuE8QrVZzX--K6JhTPE3IF32J7JC
 
 Why to go with the Minimal Version:
 
@@ -15,6 +16,7 @@ First, to reduce the overall cost of the system. Second, many of the open source
 ![mini_IMG_0050](https://github.com/user-attachments/assets/fdcb0143-c83e-461d-93dd-d987e0c79e26)
 
 I made these PCBs using Seeed Fusion prototyping service. If you are looking for fast, high-quality PCB for your projects, Seeed Fusion PCB service may be a solution to yours also.  Seeed Fusion seamless process includes free design for manufacturing (DFM) checks and instant online quotes. Whether you're working on a small project or mass production, Seeed Fusion ensures precision and reliability at every stage. Bring your ideas to life faster with their trusted PCB service!
+https://www.seeedstudio.com/fusion.html
 
 Components required:
 
@@ -51,6 +53,7 @@ M7 Diode
 Tactile switch
 
 PCB from Seeed Fusion
+https://www.seeedstudio.com/fusion.html
 
 Circuit Diagram:
 
@@ -69,6 +72,7 @@ I made this minimal design using the above given modified schematics. You can do
 ![Screenshot_2024_10_08-8](https://github.com/user-attachments/assets/0b67d2e3-4c86-4505-8284-b0b35130324b)
 
 I am using FR4 material, HASL finish, Green solder mask and 1.6mm thickness. A very thanks to Seeed Fusion for sponsoring this project. Seeed fusion is one of the leading PCB manufacturing companies in China. Deals in PCB manufacturing, SMT assembly, PCBA, stencil, 3D- printing and CNC. Try out the more services from here now, and get free PCB coupons on first Sign-up using this link.
+https://drive.google.com/drive/folders/11BXJZuE8QrVZzX--K6JhTPE3IF32J7JC
 
 Uploading the Code:
 
@@ -98,3 +102,4 @@ Testing Capacitor:
 ![mini_IMG_0061](https://github.com/user-attachments/assets/0a83e49f-aab4-411d-aec7-dbf7201121aa)
 
 You may refer to a YouTube channel named eevblog who actually explained the working of resistor divider network and how wisely this meter is designed. Using a very less external circuit this meter covers almost every electronic component. The software is very optimized and thanks to the maker for giving us such an extraordinary device. Have a look on ongoing discounts on new PCB order from Seeed Fusion.
+https://www.seeedstudio.com/fusion.html
